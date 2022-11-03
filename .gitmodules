@@ -1,0 +1,3 @@
+[submodule "bchaddrjs"]
+	path = lib/bchaddrjs
+	url = git@github.com:ealmansi/bchaddrjs.git
